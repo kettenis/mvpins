@@ -1,0 +1,5 @@
+#define MODULE_DEVICE_TABLE(x, y)
+
+#define MODULE_AUTHOR(x)
+#define MODULE_DESCRIPTION(x)
+#define MODULE_LICENSE(x)
